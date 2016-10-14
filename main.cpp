@@ -35,7 +35,7 @@ double sqrt(float a) {
 }
 
 int main() {
-    float a = 25, b = 3;
+    cin >> a >> b;
     cout << sqrt(a) << endl;
     cout << pow(a, b) << endl;
     cout << div(a, b) << endl;
